@@ -1,0 +1,52 @@
+body
+{
+    background:#FF6347;
+}
+.fixedbox
+{
+    left:0px;
+    position:fixed;
+    top:0;
+    background: white;
+    width:100%;
+    height:auto;
+}
+.box
+{
+    margin-top:30vh;
+    margin-left:auto;
+    background: white;
+    margin-right:auto;
+    width:500px;
+}
+@media screen and (max-width:530px)
+{
+    .box
+    {
+        width: 100%;
+        margin-left:0px;
+        margin-right:5px;
+    }
+}
+.headbox
+{
+    width:inherit;
+    margin-bottom: 5px;
+}
+.bodybox
+{
+    width:inherit;
+    background:#4B0082;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.boxelement
+{
+    padding: 20px;
+    border: 0.5px solid white;
+}
+.boxelement:hover
+{
+    background: #6A5ACD;
+}
