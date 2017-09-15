@@ -12,7 +12,7 @@
     <div class="box">
         <div class="headbox">
             <center>
-            <img src="image assets/consusyslogo.jpg"style="width:200px;">
+            <img src="image assets/consusyslogo.png"style="width:200px;">
             <center>
         </div>
         <div class="bodybox">
